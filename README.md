@@ -24,6 +24,9 @@
 4. 예외사항
 5. 리스크 및 확인 필요 사항
 
+## 모델 비교축 
+<img width="746" height="207" alt="image" src="https://github.com/user-attachments/assets/b8470974-3c0c-4f03-80b2-01a0227eb5bd" />
+
 
 ## 모델 비교표
 
