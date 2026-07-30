@@ -25,12 +25,13 @@
 5. 리스크 및 확인 필요 사항
 
 ## 모델 비교축 
-<img width="746" height="207" alt="image" src="https://github.com/user-attachments/assets/b8470974-3c0c-4f03-80b2-01a0227eb5bd" />
+<img width="746" height="209" alt="image" src="https://github.com/user-attachments/assets/3395604c-6e1c-4d59-aeb3-1fff87042385" />
+
 
 
 ## 모델 비교표
+<img width="530" height="224" alt="image" src="https://github.com/user-attachments/assets/0ea9b95f-0bec-4c29-9c58-f99cb4124ad6" />
 
-<img width="534" height="224" alt="스크린샷 2026-07-30 140030" src="https://github.com/user-attachments/assets/fa4377a6-dcf6-4515-b49d-2e996a805a64" />
 
 GPT: 입력 내용을 시키는대로 반영했으나, 예외 사항과 리스크 분석이 너무 단순함
 
